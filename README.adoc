@@ -27,7 +27,8 @@ similar ackermman style robot with outdoor naviagtion
 the navigation launch files is based on the steps given above
 
 >ros2 launch beetle_navigation2 bringup.launch.py 
-![[Pasted image 20231109172454.png]]
+
+
 
 fix any bridging issues if they come up
 
